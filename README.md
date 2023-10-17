@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Anna Vorona, I am Ukrainian, based in Athens, Greece.
+<! ---  ### Hi there 👋 My name is Anna Vorona, I am Ukrainian, based in Athens, Greece.
+
+
 
 🔭 I’m currently working on ideas for my future projects.
 
